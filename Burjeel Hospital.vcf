@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Burjeel Hospital
+ORG:Burjeel Hospital
+TITLE:Nearest Hospital
+TEL;TYPE=WORK,VOICE:80055
+EMAIL:info@burjeel.com
+END:VCARD
